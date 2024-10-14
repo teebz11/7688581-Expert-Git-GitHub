@@ -13,6 +13,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 apache2
 
+Nginx
+
 ```
 
 ### Installation
